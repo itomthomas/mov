@@ -1432,6 +1432,19 @@ section {
   width: 100%;
 }
 
+.contact .section-title {
+  padding-bottom: 10px;
+}
+
+.contact .facebook {
+  font-size: 30px;
+}
+
+.contact .youtube {
+  font-size: 30px;
+  padding: 0 0 0 20px;
+}
+
 .contact .info i {
   font-size: 20px;
   float: left;
