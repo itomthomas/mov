@@ -745,7 +745,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("../img/aboutMary-bg.png") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -879,7 +879,7 @@ section {
 
 .why-us .box span {
   display: block;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   color: #cda45e;
 }
@@ -910,6 +910,11 @@ section {
 .why-us .box:hover p {
   color: #fff;
 }
+
+.why-us {
+  background-color:#262626
+}
+
 
 /*--------------------------------------------------------------
 # Menu Section
@@ -1054,6 +1059,10 @@ section {
 }
 
 .specials .details p {
+  color: #aaaaaa;
+}
+
+.specials .tab-pane li{
   color: #aaaaaa;
 }
 
